@@ -1,0 +1,3 @@
+0:biomedical-waste
+1:medical_waste
+2:normal
