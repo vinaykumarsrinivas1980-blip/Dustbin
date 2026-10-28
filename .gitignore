@@ -1,2 +1,4 @@
 *.whl
 venv/
+dataset/reference_images/
+reference_images/
